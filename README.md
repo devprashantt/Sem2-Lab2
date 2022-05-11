@@ -1,7 +1,5 @@
 # Sem2-Lab2
 
-Assignment-2
-
 1. Write a Program to find the factorial of a number.
 
 2. Write a Program to find the sum of all even and odd number separately from
