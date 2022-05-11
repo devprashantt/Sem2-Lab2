@@ -1,5 +1,5 @@
 
-num = int(input("What is the number"))
+num = int(input("What is the number-\n"))
 
 factorial = 1
 
